@@ -1,0 +1,2 @@
+# forrasThingsBoard
+Minta_script
